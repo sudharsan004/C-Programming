@@ -8,4 +8,7 @@ void main(){
     printf("\nMultiplication: %d",a*b);
     printf("\nDivision: %d",(a/b));
     printf("\nModulus: %d",(a%b));
+    // type conversion
+    float x=(float)a/(float)b;
+    printf("\nDivision using float: %.2f",x);
 }

@@ -22,12 +22,6 @@ void main(){
   */
     printf("int size: %u  limit-> %d to %d", sizeof(int),INT_MIN,INT_MAX);
     printf("\nshort int size: %u limit-> %d to %d",sizeof(short int),SHRT_MIN,SHRT_MAX);
-    // printf("\n  unsigned int size: %d limit-> %d to %d",sizeof);
-    // printf("\n short int size: %d limit-> %d to %d",);
-    // printf("\n short int size: %d limit-> %d to %d",);
-
-    // characters
-    printf("\n");
 
 
 }
